@@ -20,4 +20,4 @@ If you clone or download repository's code then an `npm install` first.
 
 6. Create a restful API using nodejs and hapi framework
 
-Read the detailed tutorial at: 
+Read the detailed tutorial at:  http://programmerblog.net/restful-api-using-nodejs-and-hapi-framework/
