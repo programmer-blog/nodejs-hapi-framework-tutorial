@@ -13,7 +13,7 @@
     "hapi": "^18.1.0",
     "joe": "^2.0.2",
     "joi": "^14.3.1",
-    "mongoose": "^5.6.2"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
